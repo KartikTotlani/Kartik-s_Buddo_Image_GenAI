@@ -6,7 +6,7 @@ This repository contains a Google Colab notebook that demonstrates the use of St
 
 ## Demo Video
 
-![Demo Video](demo_video.mp4)
+![Demo Video](https://github.com/KartikTotlani/Kartik-s_Buddo_Image_GenAI/blob/main/Kartik's%20BuddoLinkedIn%20-%20Made%20with%20Clipchamp%20(1).mp4)
 
 ## Instructions
 
